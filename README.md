@@ -23,7 +23,7 @@
 <img width="73" height="20" alt="image" src="https://github.com/user-attachments/assets/d7d030f3-4a91-407a-b68e-a02a4f596cbf" />
 
 
-## #Analysis: EDA, Statistical analysis and Hypothesis testing 📊
+### Analysis: EDA, Statistical analysis and Hypothesis testing 📊
 
 ### Methodologies: Six Sigma, DMAIC and Continuous Improvement 📊 🔍
 
