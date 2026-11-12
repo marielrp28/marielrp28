@@ -11,11 +11,12 @@
 <img width="67" height="20" alt="image" src="https://github.com/user-attachments/assets/2f9c6177-5202-4c85-9881-c6ada03ae14a" />
 <img width="51" height="20" alt="image" src="https://github.com/user-attachments/assets/ef0475f5-ea99-4f14-a3f1-abe50d6498c9" />
 <img width="93" height="20" alt="image" src="https://github.com/user-attachments/assets/9627819d-c5b6-4093-81a3-923e0bc4f824" />
+<img width="57" height="20" alt="image" src="https://github.com/user-attachments/assets/bb59d663-2802-4c3d-a9bd-41b356654fb2" />
 
 ### Platforms:
-<img width="67" height="20" alt="image" src="https://github.com/user-attachments/assets/40743470-3b2f-4ffe-8ade-b84df8667e28" />
-<img width="67" height="20" alt="image" src="https://github.com/user-attachments/assets/e8740986-50f5-48a6-b071-5a40f7216434" />
-<img width="67" height="20" alt="image" src="https://github.com/user-attachments/assets/50137cba-219f-4249-a4f7-6ac2b90a43ae" />
+<img width="65" height="20" alt="image" src="https://github.com/user-attachments/assets/273e2799-c13c-44d0-805d-576cbd96aba0" />
+<img width="71" height="20" alt="image" src="https://github.com/user-attachments/assets/e26cbc2e-d205-40e8-a126-427aee0ccb83" />
+<img width="69" height="20" alt="image" src="https://github.com/user-attachments/assets/92f83af1-3339-4ad8-938e-96c5b1c8f31d" />
 
 
 ### Data Analysis & Visualization:
