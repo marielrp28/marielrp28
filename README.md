@@ -35,5 +35,5 @@
 #### Predictive models and metrics 📈
 
 ### Let's connect!
-#### Email: 
-#### LinkedIn:
+#### 📧 Email: mariel.ramirezponce28@gmail.com
+#### LinkedIn: https://www.linkedin.com/in/mariel-ramirez28/
