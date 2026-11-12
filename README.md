@@ -36,4 +36,4 @@
 
 ### Let's connect!
 #### 📧 Email: mariel.ramirezponce28@gmail.com
-#### ![Uploading image.png…]() LinkedIn: https://www.linkedin.com/in/mariel-ramirez28/
+#### 💼 LinkedIn: https://www.linkedin.com/in/mariel-ramirez28/
